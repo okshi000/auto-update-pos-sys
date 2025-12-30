@@ -1,0 +1,25 @@
+{
+    "version": "1.0.2",
+    "build": "stable",
+    "release_date": "2025-12-29T14:00:00Z",
+    "changelog": [
+        {
+            "version": "1.0.2",
+            "date": "2025-12-29",
+            "type": "feature",
+            "description": "Added new features notification on login page"
+        },
+        {
+            "version": "1.0.1",
+            "date": "2025-12-29",
+            "type": "improvement",
+            "description": "Added version display on login page, improved update mechanism"
+        },
+        {
+            "version": "1.0.0",
+            "date": "2025-12-29",
+            "type": "feature",
+            "description": "Initial release with POS, Inventory, and Reporting features"
+        }
+    ]
+}
