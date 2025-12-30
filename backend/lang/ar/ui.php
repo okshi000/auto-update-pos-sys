@@ -244,7 +244,7 @@ return [
     | Categories / الفئات
     |--------------------------------------------------------------------------
     */
-    'categories.manage' => 'إدارة الفئات',
+    'categories.manage' => 'إدارة الفئة',
     'categories.add' => 'إضافة فئة',
     'categories.edit' => 'تعديل الفئة',
     'categories.name' => 'الاسم',

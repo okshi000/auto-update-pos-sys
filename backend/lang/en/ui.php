@@ -246,7 +246,7 @@ return [
     | Categories
     |--------------------------------------------------------------------------
     */
-    'categories.manage' => 'Manage Categories',
+    'categories.manage' => 'Manage Category',
     'categories.add' => 'Add Category',
     'categories.edit' => 'Edit Category',
     'categories.name' => 'Name',
